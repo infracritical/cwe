@@ -2,6 +2,6 @@ CWE™ is a community-developed list of software and hardware weakness types. It
 
 This release exists in XSD, XML, and JSON formats.
 
-The current release of the CWE 'database' is v4.12. 
+**The current release of the CWE 'database' is v4.12.** 
 
-For more information, visit this URL: https://cwe.mitre.org/index.html
+For more information, visit this [URL](https://cwe.mitre.org/index.html).
