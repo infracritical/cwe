@@ -4,4 +4,4 @@ This release exists in XSD, XML, and JSON formats.
 
 **The current release of the CWE 'database' is v4.12.** 
 
-For more information, visit this [URL](https://cwe.mitre.org/index.html).
+For more information, visit this [https://cwe.mitre.org/index.html](https://cwe.mitre.org/index.html).
